@@ -6,8 +6,8 @@ By [Hassan ZEROUAL](https://github.com/webapplica)
 
 ## Table of Contents
 
--[Menu & Navigation](#menu-and-navigation")
--[Forms](#forms")
+- [Menu & Navigation](#menu-and-navigation")
+- [Forms](#forms")
 
 ### Menu and Navigation
 

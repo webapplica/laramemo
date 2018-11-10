@@ -5,3 +5,8 @@
 By [Hassan ZEROUAL](https://github.com/webapplica)
 
 ## Table of Contents
+
+-[Menu & Navigation](#menu-and-navigation")
+
+## Menu and Navigation
+*[DevMarketer/LaravelEasyNav](https://github.com/DevMarketer/LaravelEasyNav)- Making managing navigation in Laravel easy.

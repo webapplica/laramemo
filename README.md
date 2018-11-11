@@ -1,4 +1,4 @@
-# LaraMemo  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/webapplica)
+# LaraMemo  [![Reases]](https://github.com/webapplica/laramemo/releases)
 
 > A simple useful memo that gathers information and tools that can be useful for Laravel developers .
 

@@ -1,4 +1,4 @@
-# LaraMemo  [Reases](https://github.com/webapplica/laramemo/releases)
+# LaraMemo 
 
 > A simple useful memo that gathers information and tools that can be useful for Laravel developers .
 
